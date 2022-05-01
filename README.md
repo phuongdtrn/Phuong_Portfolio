@@ -12,10 +12,11 @@ Food recipe websites is a highly competitive space, where any data that could im
 
 ![image](https://user-images.githubusercontent.com/77939423/160414750-143e899d-f307-4a64-ae54-90b713e995be.png)
 
-Interesting findings: 
-- The top rated and most-reviewed recipes tend to belong to the desert category, such as chocolate chip cookies, pancakes, banana bread, muffins.
-- It's possible that readers tend to gravitate towards recipes with an average cooking time of around 2-2.5 hours. 
-- Customers were agnostic of nutrition information and are more favorable to websites with high reviews. 
+Interesting findings: <br>
+• The top rated and most-reviewed recipes tend to belong to the desert category, such as chocolate chip cookies, pancakes, banana bread, muffins. <br>
+• It's possible that readers tend to gravitate towards recipes with an average cooking time of around 2-2.5 hours. <br>
+• Customers were agnostic of nutrition information and are more favorable to websites with high reviews. 
+<br>
 
 Improvement: Build a better data pipeline, including creating a table within RedShift, cleaning the table in a staging area, and then feeding the table to Spark for analysis. This would lead to higher scalability than our adhoc analysis.
 
@@ -28,11 +29,12 @@ Improvement: Build a better data pipeline, including creating a table within Red
 
 A/B testing is largely implemented in the market today to analyze whether or not a business decision needs to be made. Most businesses fail to review and update their "best strategy" on a regular basis** due to a multitude of factors. In this project, we use a banner showing case to demonstrate how business operations can potentially **benefit from continous A/B testing and dynamic strategy choosing**.
 
-Compared to the traditional A/B testing method, our solution archtecture can:
-- Create streaming dashboards to visualize the results
-- Constantly review the experiment & adjust setting automatically
-- Maximize the profits
-- Potential to scale up
+Compared to the traditional A/B testing method, our solution archtecture can: <br>
+• Create streaming dashboards to visualize the results <br>
+• Constantly review the experiment & adjust setting automatically <br>
+• Maximize the profits <br>
+• Potential to scale up
+<br>
 
 **Big Data Architecture**
 <img width="899" alt="Screen Shot 2022-05-01 at 11 48 32 AM" src="https://user-images.githubusercontent.com/77939423/166155894-f303b43d-7a8a-48fa-9612-599f00215666.png">
