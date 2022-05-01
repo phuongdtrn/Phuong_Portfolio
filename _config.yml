@@ -1,8 +1,9 @@
 logo: https://media-exp1.licdn.com/dms/image/C5603AQH-JHeTjFi7uA/profile-displayphoto-shrink_400_400/0/1651439248750?e=1657152000&v=beta&t=rvBCmZUieDHAvfGjGX7-27YA6SJAIubzFwg2y5uDodQ
 
-title: <p align="center"> Phuong Tran </p> 
+title: <p align="center">   </p>
 
-description: 
+description:
+  <h1 align="center"><a href="https://phuongdtrn.github.io/Phuong_Portfolio/"> Phuong Tran</a></h1>
   <p align="center">
   <a href="https://drive.google.com/file/d/1yvoW0XhOsEPVpnommU1fLMMYzPPmP5Bk/view?usp=sharing">Resume</a> |
   <a href="https://www.linkedin.com/in/phuongtran0129/">LinkedIn</a> |
@@ -16,3 +17,4 @@ description:
   </p>
 
 theme: jekyll-theme-minimal
+future: true
