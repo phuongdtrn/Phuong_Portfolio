@@ -38,7 +38,7 @@ Models: Logistic Regression, RandomForest, XGboost, Adaboost, LightGBM
 We implemented stacking, in which we stacked up Logistic Regression, XGboost, Adaboost, LightGBM and RandomForest as the base estimators using the best parameters from GridSearch and RandomizedSearch. The final estimator is taking the predictions of the previously tuned models as input, flowing through another XGBoost model in order to conduct predictions.
 <img width="557" alt="Screen Shot 2022-04-22 at 6 07 35 PM" src="https://user-images.githubusercontent.com/77939423/164815837-309ae1f4-5276-41ab-8c39-3f055752d191.png">
 
-## [Visualization](https://public.tableau.com/app/profile/phuong.tran5157)
+### [Visualization](https://public.tableau.com/app/profile/phuong.tran5157)
 Tools & techniques: Tableau, Visualization
 ![Screen Shot 2022-05-01 at 2 20 56 PM](https://user-images.githubusercontent.com/77939423/166161304-48063321-654a-4578-9eba-9633845f240a.png)
 
