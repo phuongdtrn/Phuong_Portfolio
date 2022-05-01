@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-### [Web Scrape and Detect Food Trends](https://github.com/phuongdtrn/Python-Web-Scraping-Allrecipes)
+### [Web Scraping and Detect Recipe Trends](https://github.com/phuongdtrn/Python-Web-Scraping-Allrecipes)
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/phuongdtrn/Python-Web-Scraping-Allrecipes)
 ![Language](https://img.shields.io/badge/Python-Language-navy?logo=Python)
