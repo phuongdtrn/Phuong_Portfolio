@@ -1,6 +1,6 @@
 # Portfolio
 
-## [Allrecipes Webscraper Data Pipeline](https://github.com/phuongdtrn/Python-Web-Scraping-Allrecipes)
+### [WebScrape and Detect Food Trends](https://github.com/phuongdtrn/Python-Web-Scraping-Allrecipes)
 Food recipe websites is a highly competitive space, where any data that could improve customer satisfaction could give an edge against competitors. In this project, we **webscraped 13,000+ recipes to analyze factors that could contribute to a higher customer satisfaction measured by star ratings from 1 to 5** We pulled various attributes and performed exploratory analysis. 
 
 Tools & techniques: Python (BeautifulSoup), PySpark, Databricks, AWS
@@ -13,7 +13,7 @@ Interesting findings:
 Improvement: Build a better data pipeline, including creating a table within RedShift, cleaning the table in a staging area, and then feeding the table to Spark for analysis. This would lead to higher scalability than our adhoc analysis.
 
 
-## [Dynamic A/B Testing for Banner Optimization](https://github.com/phuongdtrn/Dynamic-AB-Testing-for-Banner-Optimization)
+### [Dynamic A/B Testing for Banner Optimization](https://github.com/phuongdtrn/Dynamic-AB-Testing-for-Banner-Optimization)
 A/B testing is largely implemented in the market today to analyze whether or not a business decision needs to be made. Most businesses **fail to review and update their "best strategy" on a regular basis** due to a multitude of factors. In this project, we use a banner showing case to demonstrate how business operations can potentially **benefit from continous A/B testing and dynamic strategy choosing**.
 
 Tools & techniques: Big Data, Statistical Analysis, Python
@@ -33,14 +33,14 @@ Our method **achieves 92% of the perfect scenario**, comparing to 83% and 84% of
 ![demo_dashboard.gif](https://github.com/xinbo-w/Dynamic-AB-Testing-for-Banner-Optimization/blob/main/demo_dashboard.gif)
 
 
-## [Home Credit Default Risk Prediction](https://github.com/phuongdtrn/Home-Credit-Default-Risk-Prediction)
+### [Predict Ability to Repay Loan](https://github.com/phuongdtrn/Home-Credit-Default-Risk-Prediction)
 Home Credit is an international consumer finance provider, whose goal is to provide a safe experience for people who have little or no credit history. In order to create a positive borrowing experience for the customers, Home Credit utilizes a variety of data attributes to predict a customer’ ability to repay loan. Our goal is to **generate additional meaningful features and perform predictive modeling** to help Home Credit better distinguish between the customers who are loan defaulters vs customers who are not. This will allow Home Credit to maximize successful loan applications that will further empower underserved clients financially
 Models: Logistic Regression, RandomForest, XGboost, Adaboost, LightGBM  
 
 We implemented stacking, in which we stacked up Logistic Regression, XGboost, Adaboost, LightGBM and RandomForest as the base estimators using the best parameters from GridSearch and RandomizedSearch. The final estimator is taking the predictions of the previously tuned models as input, flowing through another XGBoost model in order to conduct predictions.
 <img width="557" alt="Screen Shot 2022-04-22 at 6 07 35 PM" src="https://user-images.githubusercontent.com/77939423/164815837-309ae1f4-5276-41ab-8c39-3f055752d191.png">
 
-## [Dashboards](https://public.tableau.com/app/profile/phuong.tran5157)
+## [Visualization](https://public.tableau.com/app/profile/phuong.tran5157)
 Tools & techniques: Tableau, Visualization
 ![Screen Shot 2022-05-01 at 2 20 56 PM](https://user-images.githubusercontent.com/77939423/166161304-48063321-654a-4578-9eba-9633845f240a.png)
 
