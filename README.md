@@ -70,6 +70,6 @@ Animated Bubble Chart: Tracking the average fertility rate and average life expe
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77939423/166168959-36fa2d83-920d-4228-b69b-dab68dade78e.gif)
 
-Interested in how the racial breakdown by state in the U.S., I created this map chart to see the percentage of race in every state. The dashboard could be filtered by Race, Region, and State. 
+Interested in how the racial breakdown by state in the U.S., I created this map chart to see the percentage of race in every state. The dashboard could be filtered by Race (White, Black, Hispanic, Asian, Multiple Races, American Indian/Alaska Native, and Native Hawaiian), Region (Midwest, Northeast, South, West), and State. 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77939423/166169487-de3b8b6f-8ce3-46f2-aa88-91f0026c96ec.gif)
 
