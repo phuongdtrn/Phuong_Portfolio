@@ -44,6 +44,7 @@ Compared to the traditional A/B testing method, our solution archtecture can: <b
 **Results**:
 Our method **achieves 92% of the perfect scenario**, comparing to 83% and 84% of the traditional A/B and show half and half.
 <br>
+
 ![demo_dashboard.gif](https://raw.githubusercontent.com/xinbo-w/Dynamic-AB-Testing-for-Banner-Optimization/main/demo_dashboard.gif)
 
 ---
