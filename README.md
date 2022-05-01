@@ -18,10 +18,11 @@ Improvement: Build a better data pipeline, including creating a table within Red
 
 ---
 ### [Dynamic A/B Testing for Banner Optimization](https://github.com/phuongdtrn/Dynamic-AB-Testing-for-Banner-Optimization)
-A/B testing is largely implemented in the market today to analyze whether or not a business decision needs to be made. Most businesses fail to review and update their "best strategy" on a regular basis** due to a multitude of factors. In this project, we use a banner showing case to demonstrate how business operations can potentially **benefit from continous A/B testing and dynamic strategy choosing**.
 
 [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/phuongdtrn/Dynamic-AB-Testing-for-Banner-Optimization/blob/main/Dynamic%20AB%20Testing%20Demo.ipynb)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/phuongdtrn/Dynamic-AB-Testing-for-Banner-Optimization/blob/main/Presentation%20Slides.pdf)
+
+A/B testing is largely implemented in the market today to analyze whether or not a business decision needs to be made. Most businesses fail to review and update their "best strategy" on a regular basis** due to a multitude of factors. In this project, we use a banner showing case to demonstrate how business operations can potentially **benefit from continous A/B testing and dynamic strategy choosing**.
 
 Tools & techniques: Big Data, Statistical Analysis, Python
 
@@ -43,10 +44,11 @@ Our method **achieves 92% of the perfect scenario**, comparing to 83% and 84% of
 
 ---
 ### [Predict Ability to Repay Loan](https://github.com/phuongdtrn/Home-Credit-Default-Risk-Prediction)
-Home Credit is an international consumer finance provider, whose goal is to provide a safe experience for people who have little or no credit history. In order to create a positive borrowing experience for the customers, Home Credit utilizes a variety of data attributes to predict a customer’ ability to repay loan. Our goal is to **generate additional meaningful features and perform predictive modeling** to help Home Credit better distinguish between the customers who are loan defaulters vs customers who are not. This will allow Home Credit to maximize successful loan applications that will further empower underserved clients financially
 
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/phuongdtrn/Home-Credit-Default-Risk-Prediction/blob/main/Project%20WriteUp.pdf)
-[![Model](https://img.shields.io/badge/Model-lightskyblue?logo=R)](https://github.com/phuongdtrn/Home-Credit-Default-Risk-Prediction/blob/main/Final_Code_Home_Credit.ipynb)
+[![Model](https://img.shields.io/badge/Model-lightskyblue?logo=Python)](https://github.com/phuongdtrn/Home-Credit-Default-Risk-Prediction/blob/main/Final_Code_Home_Credit.ipynb)
+
+Home Credit is an international consumer finance provider, whose goal is to provide a safe experience for people who have little or no credit history. In order to create a positive borrowing experience for the customers, Home Credit utilizes a variety of data attributes to predict a customer’ ability to repay loan. Our goal is to **generate additional meaningful features and perform predictive modeling** to help Home Credit better distinguish between the customers who are loan defaulters vs customers who are not. This will allow Home Credit to maximize successful loan applications that will further empower underserved clients financially
 
 Models: Logistic Regression, RandomForest, XGboost, Adaboost, LightGBM  
 
@@ -55,6 +57,9 @@ We implemented stacking, in which we stacked up Logistic Regression, XGboost, Ad
 
 ---
 ### [Visualization](https://public.tableau.com/app/profile/phuong.tran5157)
+
+[![View on Tableau](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=Tableau)](https://public.tableau.com/app/profile/phuong.tran5157)
+
 Tools & techniques: Tableau, Visualization
 ![Screen Shot 2022-05-01 at 2 20 56 PM](https://user-images.githubusercontent.com/77939423/166161304-48063321-654a-4578-9eba-9633845f240a.png)
 
