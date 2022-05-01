@@ -66,7 +66,7 @@ Covid-19 has dratistically affected the airline industry due to travel bans and 
 
 ![Screen Shot 2022-05-01 at 2 20 56 PM](https://user-images.githubusercontent.com/77939423/166161304-48063321-654a-4578-9eba-9633845f240a.png)
 
-Animated Bubble Chart: Tracking the average fertility rate and average life expectancy of countries from 1960 to 2019. The size of the bubble is based on the country's population. 
+Animated Bubble Chart: Tracking the average fertility rate and average life expectancy of countries categorized by continent from 1960 to 2019. The size of the bubble is based on the country's population. 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77939423/166168959-36fa2d83-920d-4228-b69b-dab68dade78e.gif)
 
