@@ -1,5 +1,3 @@
-# Portfolio
-
 ### [WebScrape and Detect Food Trends](https://github.com/phuongdtrn/Python-Web-Scraping-Allrecipes)
 Food recipe websites is a highly competitive space, where any data that could improve customer satisfaction could give an edge against competitors. In this project, we **webscraped 13,000+ recipes to analyze factors that could contribute to a higher customer satisfaction measured by star ratings from 1 to 5** We pulled various attributes and performed exploratory analysis. 
 
