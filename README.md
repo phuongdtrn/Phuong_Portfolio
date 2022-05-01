@@ -5,7 +5,6 @@ Food recipe websites is a highly competitive space, where any data that could im
 
 Tools & techniques: Python (BeautifulSoup), PySpark, Databricks, AWS
 ![image](https://user-images.githubusercontent.com/77939423/160414750-143e899d-f307-4a64-ae54-90b713e995be.png)
-
 Interesting findings:
 - The top rated and most-reviewed recipes tend to belong to the desert category, such as chocolate chip cookies, pancakes, banana bread, muffins
 - It's possible that readers tend to gravitate towards recipes with an average cooking time of around 2-2.5 hours.
