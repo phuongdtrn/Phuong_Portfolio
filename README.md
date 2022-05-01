@@ -60,6 +60,8 @@ We implemented stacking, in which we **stacked Logistic Regression, XGboost, Ada
 
 [![View on Tableau](https://img.shields.io/badge/View_on_Tableau-PURPLE?logo=Tableau)](https://public.tableau.com/app/profile/phuong.tran5157)
 
+Covid-19 has dratistically affected the airline industry due to travel bans and restrictions. Curious about how the industry's traffic in 2020, I compared the air travel trends (total passengers, monthly passengers, top 10 carriers, and routes) in the U.S. between 2020 and 2019:
+
 ![Screen Shot 2022-05-01 at 2 20 56 PM](https://user-images.githubusercontent.com/77939423/166161304-48063321-654a-4578-9eba-9633845f240a.png)
 
 
