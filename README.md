@@ -1,6 +1,5 @@
-![PHUONG TRAN](https://user-images.githubusercontent.com/77939423/166171083-ef8a6049-763d-45ca-a4b8-ccf7d09df68d.gif)
+![PHUONG TRAN (1)](https://user-images.githubusercontent.com/77939423/166171263-c07f6ce2-e4fb-478a-83ba-25f09acde9c2.gif)
 
-## Portfolio
 ---
 ### [Web Scraping and Detect Recipe Trends](https://github.com/phuongdtrn/Python-Web-Scraping-Allrecipes)
 
