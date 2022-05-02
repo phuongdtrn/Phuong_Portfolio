@@ -19,6 +19,8 @@ Interesting findings: <br>
 • Customers were agnostic of nutrition information and are more favorable to websites with high reviews. 
 <br>
 
+<img width="587" alt="Screen Shot 2022-05-01 at 10 52 27 PM" src="https://user-images.githubusercontent.com/77939423/166182245-a795c183-ecd5-4cc1-9746-63cf18f34480.png">
+
 Improvement: Build a better data pipeline, including creating a table within RedShift, cleaning the table in a staging area, and then feeding the table to Spark for analysis. This would lead to higher scalability than our adhoc analysis.
 
 ---
