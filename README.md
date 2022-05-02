@@ -42,14 +42,14 @@ Compared to the traditional A/B testing method, our solution archtecture can: <b
 
 <br>
 
+![demo_dashboard.gif](https://raw.githubusercontent.com/xinbo-w/Dynamic-AB-Testing-for-Banner-Optimization/main/demo_dashboard.gif)
+
+As customers enter the website, there are two banner candidates, sneakers and clothes banner. Using the traditional approach of A/B testing, the clothes banner is chosen as the winner, which is shown to customers at all time. However, as time progresses, there is a decline in profit associated with the clothes banner due to various reasons, as shown in the dash line of the left graph. <br>
+Our dynamic solution is able to detect the change in profit because it always allocates a small proportion of impressions to the losing banner. Therefore, as the profit of the clothes banner decreases, it can allocate more impressions to the sneakers banner and switch the winner accordingly.
+
 **Results**:
 Our method **achieves 92% of the perfect scenario**, comparing to 83% and 84% of the traditional A/B and show half and half.
 <br>
-
-![demo_dashboard.gif](https://raw.githubusercontent.com/xinbo-w/Dynamic-AB-Testing-for-Banner-Optimization/main/demo_dashboard.gif)
-
-As customers enter the website, there are two banner candidates, sneakers and clothes banner. With the traditional approach of A/B testing, the clothes banner is the original winner, which is shown to customers at all time. However, as time progresses, there is a decline in profit associated with the clothes banner due to various reasons, as shown in the dash line of the left graph. <br>
-Our dynamic solution is able to detect the change in profit because it always allocates a small proportion of impressions to the losing banner. Therefore, as the profit of the clothes banner decreases, it can allocate more impressions to the sneakers banner and switch the winner accordingly.
 
 ---
 ### [Predict Ability to Repay Loan](https://github.com/phuongdtrn/Home-Credit-Default-Risk-Prediction)
