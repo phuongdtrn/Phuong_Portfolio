@@ -42,6 +42,7 @@ Compared to the traditional A/B testing method, our solution archtecture can: <b
 
 <br>
 
+**Streaming Dashboard Demo**
 ![demo_dashboard.gif](https://raw.githubusercontent.com/xinbo-w/Dynamic-AB-Testing-for-Banner-Optimization/main/demo_dashboard.gif)
 
 As customers enter the website, there are two banner candidates, sneakers and clothes banner. Using the traditional approach of A/B testing, the clothes banner is chosen as the winner, which is shown to customers at all time. However, as time progresses, there is a decline in profit associated with the clothes banner due to various reasons, as shown in the dash line of the left graph. <br>
