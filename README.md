@@ -11,7 +11,7 @@
 
 Food recipe websites is a highly competitive space, where any data that could improve customer satisfaction could give an edge against competitors. In this project, we **webscraped 13,000+ recipes to analyze factors that could contribute to a higher customer satisfaction** measured by star ratings from 1 to 5. We pulled various attributes and performed exploratory analysis. 
 
-![image](https://user-images.githubusercontent.com/77939423/160414750-143e899d-f307-4a64-ae54-90b713e995be.png)
+<img width="732" alt="Screen Shot 2022-05-01 at 10 07 26 PM" src="https://user-images.githubusercontent.com/77939423/166179687-de0e7e9b-389f-4ef3-b397-c2339b4d8a5e.png">
 
 Interesting findings: <br>
 • The top rated and most-reviewed recipes tend to belong to the desert category, such as chocolate chip cookies, pancakes, banana bread, muffins. <br>
