@@ -28,11 +28,11 @@ Improvement: Build a better data pipeline, including creating a table within Red
 [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/phuongdtrn/Dynamic-AB-Testing-for-Banner-Optimization/blob/main/Dynamic%20AB%20Testing%20Demo.ipynb)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/phuongdtrn/Dynamic-AB-Testing-for-Banner-Optimization/blob/main/Presentation%20Slides.pdf)
 
-A/B testing is largely implemented in the market today to analyze whether or not a business decision needs to be made. Most businesses fail to review and update their "best strategy" on a regular basis** due to a multitude of factors. In this project, we use a banner showing case to demonstrate how business operations can potentially **benefit from continous A/B testing and dynamic strategy choosing**.
+A/B testing is largely implemented in the market today to analyze whether or not a business decision needs to be made. Most businesses fail to review and update their "best strategy" on a regular basis due to a multitude of factors. In this project, we use a banner showing case to demonstrate how business operations can potentially **benefit from continous A/B testing and dynamic strategy choosing**.
 
 Compared to the traditional A/B testing method, our solution archtecture can: <br>
 • Create streaming dashboards to visualize the results <br>
-• Constantly review the experiment & adjust setting automatically <br>
+• Constantly review the experiment & adjust setting automatically, thus saving human's efforts <br>
 • Maximize the profits <br>
 • Potential to scale up
 <br>
@@ -47,6 +47,9 @@ Our method **achieves 92% of the perfect scenario**, comparing to 83% and 84% of
 <br>
 
 ![demo_dashboard.gif](https://raw.githubusercontent.com/xinbo-w/Dynamic-AB-Testing-for-Banner-Optimization/main/demo_dashboard.gif)
+
+In this example, as customers enter the website, there are two banner candidates, sneakers and clothes banner. With the traditional approach of A/B testing, the clothes banner is the winner at one point of time, which will be shown to customers at all time. As time progresses, there is a decline in profit associated with the clothes banner due to various reasons, as shown in the dash line of the left graph. 
+Our dynamic solution is able to detect the change in profit because it allocates a small proportion of impressions to the losing banner. Therefore, it can allocate more impressions to the other banner (sneakers) and switch the winner banner accordingly.
 
 ---
 ### [Predict Ability to Repay Loan](https://github.com/phuongdtrn/Home-Credit-Default-Risk-Prediction)
