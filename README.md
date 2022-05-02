@@ -57,7 +57,7 @@ Our method **achieves 92% of the perfect scenario**, comparing to 83% and 84% of
 Home Credit is an international consumer finance provider, whose goal is to provide a safe experience for people who have little or no credit history. In order to create a positive borrowing experience for the customers, Home Credit utilizes a variety of data attributes to predict a customer’ ability to repay loan. Our goal is to **generate additional meaningful features and perform predictive modeling** to help Home Credit better distinguish between the customers who are loan defaulters vs customers who are not. This will allow Home Credit to maximize successful loan applications that will further empower underserved clients financially
 
 We implemented stacking, in which we **stacked Logistic Regression, XGboost, Adaboost, LightGBM and RandomForest** as the base estimators using the best parameters from GridSearch and RandomizedSearch. The final estimator is taking the predictions of the previously tuned models as input, flowing through another XGBoost model in order to conduct predictions.
-<img width="557" alt="Screen Shot 2022-04-22 at 6 07 35 PM" src="https://user-images.githubusercontent.com/77939423/164815837-309ae1f4-5276-41ab-8c39-3f055752d191.png">
+<img width="817" alt="Screen Shot 2022-05-01 at 10 13 26 PM" src="https://user-images.githubusercontent.com/77939423/166180089-17a51752-44c6-4a99-811e-98516ce5c125.png">
 
 ---
 ### [Visualization](https://public.tableau.com/app/profile/phuong.tran5157)
